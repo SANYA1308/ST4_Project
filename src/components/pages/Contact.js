@@ -29,8 +29,8 @@ const Contact = () => {
         loading="lazy" 
         referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-        <div className="container">
-            <div className="contact-form">
+        <div className="container mr-2">
+            <div className="contact-form " >
                 <form action='#' className='contact-inputs'>
                     <h1>CONTACT US</h1>
                     <div className="inputBox">

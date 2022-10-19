@@ -4,7 +4,7 @@
 
 .jumbotron {
     background-color: #f4511e;
-    color: #fff;
+    color: #050404;
     padding: 100px 25px;
 }
 .container-fluid {
@@ -14,11 +14,11 @@
     background-color: #f6f6f6;
 }
 .logo-small {
-    color: #f4511e;
+    color: #f41e22;
     font-size: 50px;
 }
 .logo {
-    color: #f4511e;
+    color: #f41e22;
     font-size: 200px;
 }
 @media screen and (max-width: 768px) {
